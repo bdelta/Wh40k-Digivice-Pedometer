@@ -4,6 +4,7 @@
  * www.pocketmagic.net
  * Based on a work by Tony Myatt - 2007
  */
+//Modified by Brian Do
 
 #pragma once
 
