@@ -1,3 +1,5 @@
+// WH40K Digivice Written by Brian Do
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <util/atomic.h>
