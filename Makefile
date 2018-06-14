@@ -8,7 +8,7 @@ CHIP_ID=m328p
 PORT=COM1
 BAUD_RATE=19200
 
-PROJ_NAME=lcd_test
+PROJ_NAME=main
 
 $(PROJ_NAME).hex:
 
